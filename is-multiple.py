@@ -1,3 +1,5 @@
+##code determines if the number n is a multiple of the number m.
+
 n = int(input('Give me a number: '))
 m = int(input('Give me a second number: '))
 
